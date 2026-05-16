@@ -51,11 +51,20 @@ Wazuh successfully detected:
 - Privilege escalation activity
 
 ---
-
-## Screenshots
-(Add screenshots here)
-
 ---
+## Screenshots
+
+### Wazuh Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Threat Hunting
+![Threat Hunting](screenshots/threat-hunting.png)
+
+### Security Alerts
+![Alerts](screenshots/alerts.png)
+
+### SSH Brute Force Detection
+![SSH Bruteforce](screenshots/ssh-bruteforce.png)
 
 ## Skills Demonstrated
 - SIEM deployment
